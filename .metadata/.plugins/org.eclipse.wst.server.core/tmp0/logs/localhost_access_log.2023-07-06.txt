@@ -1,0 +1,5 @@
+127.0.0.1 - - [06/Jul/2023:23:11:36 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [06/Jul/2023:23:11:40 +0530] "GET /webproject/loginwebout.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/Jul/2023:23:11:41 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [06/Jul/2023:23:11:56 +0530] "GET /webproject/WebLogin?mail=padmalathac2001%40gmail.com&pass=jhfhkuj HTTP/1.1" 200 110
+0:0:0:0:0:0:0:1 - - [06/Jul/2023:23:12:37 +0530] "GET /webproject/userregistration.html HTTP/1.1" 304 -
